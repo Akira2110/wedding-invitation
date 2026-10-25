@@ -1,0 +1,7 @@
+{
+  "name": "undangan-pernikahan",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": { "redis": "^4.7.0" }
+}
